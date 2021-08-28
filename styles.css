@@ -43,7 +43,10 @@ footer {
 .l {
   background-image: url('images/kick.png');
 }
-
+.w:hover,.a:hover,.s:hover,.d:hover,.j:hover,.k:hover,.l:hover{
+  border-color: rgb(0, 174, 255);
+  background-color: burlywood;
+}
 .set {
   margin: 10% auto;
 }
