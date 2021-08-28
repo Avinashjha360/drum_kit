@@ -79,7 +79,7 @@ footer {
   background-color: white;
 }
 .drum:hover{
-  background-color:rgb(0,174,255);
+  border-color:rgb(0,174,255);
 }
 @media(max-width:1000px){
 .drum{
